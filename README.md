@@ -85,3 +85,10 @@ GitHub: https://github.com/nizarbagdatli
 - Improved CNN Test Accuracy: 84.38%
 
 The improved model shows better generalization and higher performance on unseen data.
+
+## 📌 Highlights
+
+- Implemented CNN models from scratch using PyTorch  
+- Compared baseline and improved architectures  
+- Applied regularization techniques (BatchNorm, Dropout, Weight Decay)  
+- Evaluated model performance using validation and test datasets  
