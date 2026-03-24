@@ -78,3 +78,10 @@ It demonstrates:
 
 Ahmet Nizar Bağdatlı  
 GitHub: https://github.com/nizarbagdatli
+
+## 📊 Results
+
+- Baseline CNN Test Accuracy: 82.03%
+- Improved CNN Test Accuracy: 84.38%
+
+The improved model shows better generalization and higher performance on unseen data.
